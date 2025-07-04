@@ -199,10 +199,5 @@ The application uses CSS styling (`style.css`) with:
 - Close and reopen application if memory usage is high
 - Clear results between different image analyses
  
-
-
-## Repository
-
-**GitHub**: [https://github.com/Sou1ence/HuffmanPngCompressor.git](https://github.com/Sou1ence/HuffmanPngCompressor.git)
-
+ 
 For issues, feature requests, or contributions, please use the GitHub repository.
