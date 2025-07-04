@@ -1,0 +1,62 @@
+.root {
+    -fx-background-color: #2c2c2a;
+}
+
+.button {
+    -fx-font-size: 12px;
+    -fx-padding: 8 16;
+    -fx-background-radius: 6;
+    -fx-border-radius: 6;
+    -fx-cursor: hand;
+    -fx-text-fill: #dfdfdc;
+}
+
+.button-accent {
+    -fx-background-color: #ca7b5d;
+}
+
+.button-info {
+    -fx-background-color: #7f72c3;
+}
+
+.button-clear {
+    -fx-background-color: #d32f2f;
+}
+
+.label {
+    -fx-font-family: "System";
+    -fx-font-weight: bold;
+    -fx-text-fill: #dfdfdc;
+}
+
+.text-area {
+    -fx-control-inner-background: #272726;
+    -fx-text-fill: #a19e96;
+    -fx-font-family: "Consolas", "Monaco", monospace;
+    -fx-font-size: 11px;
+    -fx-background-radius: 6;
+    -fx-border-radius: 6;
+    -fx-border-color: #444;
+}
+
+.huffman-tree {
+    -fx-font-size: 10px;
+}
+
+.image-panel {
+    -fx-background-color: #3f3f3c;
+    -fx-background-radius: 8;
+    -fx-padding: 15;
+}
+
+.results-panel {
+    -fx-background-color: #3f3f3c;
+    -fx-background-radius: 8;
+    -fx-padding: 15;
+}
+
+.bottom-panel {
+    -fx-background-color: #272726;
+    -fx-background-radius: 6;
+    -fx-padding: 12;
+}
