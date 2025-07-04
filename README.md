@@ -152,21 +152,21 @@ The application uses CSS styling (`style.css`) with:
 - Responsive layout design
 
 ### Primary Colors
-| Color | Hex Code | Usage | Description |
-|-------|----------|-------|-------------|
-| ![#2c2c2a](https://via.placeholder.com/15/2c2c2a/2c2c2a.png) **Dark Charcoal** | `#2c2c2a` | Main background | Primary application background |
-| ![#3f3f3c](https://via.placeholder.com/15/3f3f3c/3f3f3c.png) **Medium Gray** | `#3f3f3c` | Panel backgrounds | Image and results panel containers |
-| ![#272726](https://via.placeholder.com/15/272726/272726.png) **Dark Gray** | `#272726` | Secondary backgrounds | Text areas and bottom panel |
-| ![#dfdfdc](https://via.placeholder.com/15/dfdfdc/dfdfdc.png) **Light Gray** | `#dfdfdc` | Primary text | Main text and labels |
-| ![#a19e96](https://via.placeholder.com/15/a19e96/a19e96.png) **Muted Gray** | `#a19e96` | Secondary text | Text area content |
-| ![#444444](https://via.placeholder.com/15/444444/444444.png) **Border Gray** | `#444444` | Borders | Text area borders and separators |
+| Color | Badge | Hex Code | Usage | Description |
+|-------|-------|----------|-------|-------------|
+| ⚫ Dark Charcoal | ![Dark Charcoal](https://img.shields.io/badge/Dark_Charcoal-2c2c2a?style=flat&logo=materialdesignicons&logoColor=dfdfdc) | `#2c2c2a` | Main background | Primary application background |
+| ⬛ Medium Gray | ![Medium Gray](https://img.shields.io/badge/Medium_Gray-3f3f3c?style=flat&logo=materialdesignicons&logoColor=dfdfdc) | `#3f3f3c` | Panel backgrounds | Image and results panel containers |
+| ◼️ Dark Gray | ![Dark Gray](https://img.shields.io/badge/Dark_Gray-272726?style=flat&logo=materialdesignicons&logoColor=dfdfdc) | `#272726` | Secondary backgrounds | Text areas and bottom panel |
+| ⬜ Light Gray | ![Light Gray](https://img.shields.io/badge/Light_Gray-dfdfdc?style=flat&logo=materialdesignicons&logoColor=2c2c2a) | `#dfdfdc` | Primary text | Main text and labels |
+| 🔘 Muted Gray | ![Muted Gray](https://img.shields.io/badge/Muted_Gray-a19e96?style=flat&logo=materialdesignicons&logoColor=dfdfdc) | `#a19e96` | Secondary text | Text area content |
+| 🔲 Border Gray | ![Border Gray](https://img.shields.io/badge/Border_Gray-444444?style=flat&logo=materialdesignicons&logoColor=dfdfdc) | `#444444` | Borders | Text area borders and separators |
 
 ### Accent Colors
-| Color | Hex Code | Usage | Description |
-|-------|----------|-------|-------------|
-| ![#ca7b5d](https://via.placeholder.com/15/ca7b5d/ca7b5d.png) **Warm Orange** | `#ca7b5d` | Load button | Primary action button |
-| ![#7f72c3](https://via.placeholder.com/15/7f72c3/7f72c3.png) **Purple** | `#7f72c3` | Compress button | Secondary action button |
-| ![#d32f2f](https://via.placeholder.com/15/d32f2f/d32f2f.png) **Red** | `#d32f2f` | Clear button | Destructive action button |
+| Color | Badge | Hex Code | Usage | Description |
+|-------|-------|----------|-------|-------------|
+| 🔶 Warm Orange | ![Warm Orange](https://img.shields.io/badge/Warm_Orange-ca7b5d?style=flat&logo=materialdesignicons&logoColor=dfdfdc) | `#ca7b5d` | Load button | Primary action button |
+| 🟣 Purple | ![Purple](https://img.shields.io/badge/Purple-7f72c3?style=flat&logo=materialdesignicons&logoColor=dfdfdc) | `#7f72c3` | Compress button | Secondary action button |
+| 🔴 Red | ![Red](https://img.shields.io/badge/Red-d32f2f?style=flat&logo=materialdesignicons&logoColor=dfdfdc) | `#d32f2f` | Clear button | Destructive action button |
 
 ## Limitations
 
